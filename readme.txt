@@ -5,3 +5,5 @@ Git tracks changes of files.
 哈哈哈哈成都市慈善阿菜单删除打 
 
 呵呵呵呵呵呵呵呵
+
+修bug修bug

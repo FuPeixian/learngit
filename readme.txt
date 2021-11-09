@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 呵呵呵呵呵呵呵呵
 
-我也要修
+修bug修bug
